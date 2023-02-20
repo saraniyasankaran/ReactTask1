@@ -1,0 +1,36 @@
+.image{
+  margin-top: 10px;
+  margin-left: 50px;
+  width: 420px;
+  height: 420px;
+}
+.first{
+  display: flex;
+}
+.side{
+  margin-top: 100px; 
+}
+.price{
+  color: green;
+  margin-left: 30px;
+  font-size: 24px;
+}
+li{
+  font-size: 20px;
+}
+.heading{
+  color: rgb(85, 118, 146);
+ margin-left: 20%;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 25px;
+}
+button{
+  cursor: pointer;
+  color: aliceblue;
+  border-radius: 30px;
+  border-color: rgb(85, 118, 146);
+  margin-left: 40px;
+  background-color:  rgb(85, 118, 146);
+  height: 40px;
+  width: 120px;
+}
